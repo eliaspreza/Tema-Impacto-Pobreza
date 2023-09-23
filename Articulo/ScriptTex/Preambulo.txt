@@ -1,0 +1,55 @@
+
+
+
+%===================PreambuloArtículo===========
+
+\usepackage[lmargin=2.5 cm, rmargin= 2.5 cm, top=1.7 cm, bottom= 2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{setspace}
+\usepackage{pdfpages}
+%\setlength{\parskip}{1em}
+\onehalfspace
+\usepackage[none]{hyphenat}
+\parindent=0.5 cm
+\linespread{1.1}
+\usepackage{mathptmx}
+\usepackage{afterpage}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{amssymb,amsfonts,latexsym,cancel}
+\usepackage{array}
+\usepackage{longtable,multirow,booktabs}
+\usepackage{bm}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage[colorlinks=true,
+            linkcolor=black,
+            citecolor=black,
+            urlcolor=blue]{hyperref}
+\usepackage{longtable}
+\setcounter{MaxMatrixCols}{40}
+\usepackage{multicol}
+\usepackage{subfigure}
+\usepackage{titling}
+\usepackage{titlesec}
+%\usepackage[sc]{mathpazo}
+\newcolumntype{E}{>{$}c<{$}}
+
+
+%==========Estilo para el articulo 2 columnas
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead [C]{{\textbf{\tiny ANÁLISIS DEL IMPACTO DE LA CONTRACCIÓN ECONÓMICA DE EE.UU. EN LA POBREZA DE EL SALVADOR}}}
+\fancyfoot{}
+\fancyfoot[C]{\thepage}
+\fancyfoot[L]{{\scriptsize \textbf{Investigaciones de IDEA DATA CONSULTANCY}}}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\columnsep}{5.22mm}
+
+
+%\usepackage{anyfontsize}

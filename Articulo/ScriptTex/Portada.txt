@@ -1,0 +1,64 @@
+
+
+
+%=========================Portada e Introducción
+
+
+\setlength{\droptitle}{-3.5\baselineskip}
+
+\title{{\Huge La contracción económica de EE.UU. a causa del Covid-19 y su probable impacto en la pobreza de El Salvador }}
+
+\date{\textbf{25-Mayo-2020}}
+
+\maketitle 
+
+
+
+%\author{
+%	\textsc{Idea Data Consultancy}
+%	\thanks{Área de Investigaciones de IDEA DATA} \\[0.1cm]
+%	\href{www.ideadata.site/home/}{www.ideadata.site};
+%	\href{https://twitter.com/Ideadata_SLV}{@IdeadataSLV};
+%	\href{mailto:consultores.asociados@ideadata.site}{consultores.asociados@ideadata.site}
+%}
+
+\begin{figure}[H]
+	\centering
+	\resizebox{3cm}{!} { 
+		\includegraphics[width=1\linewidth]{Imagenes/Logo}
+	}
+	
+	\centering
+	{\bf UNIDAD DE INVESTIGACIONES}\\
+	Sitio Web: \href{www.ideadata.site/home/}{www.ideadata.site}; Twitter: \href{https://twitter.com/Ideadata_SLV}{@IdeadataSLV}; Facebook: \href{https://www.facebook.com/Idea-Data-Consultancy-104132684512624/}{Idea Data Consultancy}\\
+	%Twitter: \href{https://twitter.com/Ideadata_SLV}{@IdeadataSLV}\\
+	%Facebook: \href{https://www.facebook.com/Idea-Data-Consultancy-104132684512624/}{Idea Data Consultancy}\\
+	Email: \href{mailto:consultores.asociados@ideadata.site}{consultores.asociados@ideadata.site}\\
+	
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\resizebox{2cm}{!} { 
+		\includegraphics[width=1\linewidth]{Imagenes/Licencia}
+	}
+	
+\end{figure}
+
+
+\begin{abstract}
+	
+{\footnotesize  	\textbf{Uno de los principales resultados de la investigación indica que una contracción de la economía estadounidense a un nivel del $18\textperthousand$ para el segundo trimestre 2020, tal como indican algunos expertos, conllevaría una pérdida en las transferencias monetarias dirigidas al país por US$\$$ 467.32 millones, es decir una importante reducción del $35.6 \textperthousand$, aumentando la pobreza en más de dos puntos porcentuales, incrementándose del $26.2 \textperthousand$ a un $28.5 \textperthousand$, lo que traerá a consecuencia que más de 142 mil personas entren a condiciones precarias y que los hogares pobres aumente de 491 mil a 534 mil. para constituir un universo de por lo menos 2.2 millones de personas en pobreza}}
+	
+\end{abstract}
+
+
+%\begin{multicols}{2}
+
+\section{Introducción}
+
+La presente investigación tiene como finalidad cuantificar el impacto en las condiciones de pobreza nacional, derivados de la contracción económica que presenta EE.UU. a consecuencia de los efectos del Covid-19 que ha obligado a un lockdown general en esa nación norteamericana y que encierra mucha importancia debido a que es el origen de más del 90$\textperthousand$ de las transferencias monetarias de las cuales goza el país y que son un sostén importante para mantener la estabilidad económica y social. La investigación en su primera parte expone un marco de referencia general, a donde se revisa el impacto del Coronavirus a nivel mundial a una fecha determinada y su efecto en USA, se revisan de forma general las proyecciones económicas y se desarrolla una revisión de la tendencia del PIB real de EE.UU. y los niveles de desempleo en los principales sectores de la economía norteamericana y su relación con el empleo hispano o latino; se describe la metodología de la investigación a donde se desarrolla el planteamiento técnico del modelo empleado, así como la explicación de la forma de construcción de los índices FGT que sirven para medir pobreza, brecha y severidad de la misma; se exponen los resultados del modelo para estimar la cuantía de reducción de las remesas, posterior a ello se calcula nuevamente la estimación de pobreza con la reducción proyectada y se analiza su recomposición; finalmente se presenta la discusión de los datos y se cierra con las principales conclusiones y recomendaciones.
+
+
+%\end{multicols}
+
